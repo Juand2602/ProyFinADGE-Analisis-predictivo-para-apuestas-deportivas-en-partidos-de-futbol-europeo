@@ -50,7 +50,7 @@ La metodología incluye:
 * Implementación de modelos de Machine Learning para clasificación (RandomForestClassifier) y regresión (RandomForestRegressor).
 * Cálculo del valor esperado para evaluar la rentabilidad de las apuestas.
 
-![Diagrama del Pipeline](C:/Users/juand/Downloads/pipeline.png) 
+![Diagrama del Pipeline]([C:/Users/juand/Downloads/pipeline.png](https://github.com/Juand2602/ProyFinADGE-Analisis-predictivo-para-apuestas-deportivas-en-partidos-de-futbol-europeo/blob/main/pipeline.png)) 
 
 ##   Herramientas y Tecnologías
 
