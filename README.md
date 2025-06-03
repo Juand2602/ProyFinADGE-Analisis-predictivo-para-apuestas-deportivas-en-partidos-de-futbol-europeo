@@ -6,12 +6,6 @@ Este repositorio contiene el código y la documentación para el proyecto final,
 
 El proyecto aborda el problema de predecir los resultados de partidos de fútbol profesional y estimar las cuotas (odds) de apuestas deportivas basadas en datos históricos. El objetivo es desarrollar un sistema automatizado que replique el proceso de las casas de apuestas utilizando técnicas de análisis de datos a gran escala.
 
-El sistema busca predecir:
-
-* El resultado del partido (victoria local, empate o victoria visitante).
-* La cantidad de goles que anotará cada equipo.
-* Las cuotas estimadas para apuestas en función de las probabilidades.
-
 ##   Objetivos
 
 * **Objetivo General:** Diseñar un sistema inteligente que prediga el resultado y los goles de un partido de fútbol profesional, y que a partir de estas predicciones, calcule las cuotas u "odds" de apuestas, utilizando técnicas de análisis de datos a gran escala.
