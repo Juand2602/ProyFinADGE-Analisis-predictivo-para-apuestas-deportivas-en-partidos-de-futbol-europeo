@@ -84,8 +84,8 @@ Se exploraron visualizaciones de la relación entre características (e.g., agre
 
 ###   Detalles de Ejecución
 
-* Asegúrese de tener Python 3.x instalado.
-* Instale las dependencias usando `pip install -r requirements.txt` (si se proporciona un archivo de este tipo, o instale las librerías listadas en "Herramientas y Tecnologías" individualmente).
+* Asegúrese de tener Python 3.10 instalado.
+* Instale las dependencias.
 * Para ejecutar los scripts de PySpark, Spark debe estar instalado y configurado correctamente en su entorno. Esto puede implicar configurar las variables de entorno `SPARK_HOME` y `PYSPARK_PYTHON`.
 * Los scripts pueden tener argumentos de línea de comandos para especificar archivos de entrada/salida, parámetros del modelo, etc. Consulte el encabezado de cada script o la documentación interna para obtener más detalles.
 * Si se utiliza Google Colab, asegúrese de montar Google Drive correctamente para acceder a los datos y guardar los resultados.
